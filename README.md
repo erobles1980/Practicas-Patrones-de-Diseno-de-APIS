@@ -1,2 +1,2 @@
 # Practicas-Patrones-de-Diseno-de-APIS
-Prácticas de la asignatura de Patrones de Diseño de APIS
+Prácticas No. 1 - Uso de API My Maps Google 
